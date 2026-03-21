@@ -16,9 +16,11 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-1GS1WY65XN"></script>
-<meta name="google-site-verification" content="XXXXXXX">
+<meta name="google-site-verification" content="el6dlcu_YYp1qFqhKVPVw6jwt6yJmwK8fDRo6kZm4Pk">
 <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-1GS1WY65XN');</script>
 
     
